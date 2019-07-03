@@ -3,6 +3,7 @@
   <POU Name="POU" Id="{8ae29ff4-6456-4425-8b4c-cc2f9da92797}" SpecialFunc="None">
     <Declaration><![CDATA[PROGRAM POU
 VAR
+	poukk : BOOL;
 END_VAR
 ]]></Declaration>
     <Implementation>
@@ -18,8 +19,8 @@ END_VAR
                 <d2 n="InnerDictionary" />
               </o>
               <v n="AutoSizeCanvas">true</v>
-              <v n="CanvasWidth">0</v>
-              <v n="CanvasHeight">0</v>
+              <v n="CanvasWidth">2</v>
+              <v n="CanvasHeight">2</v>
             </o>
           </Data>
           <TypeList>
