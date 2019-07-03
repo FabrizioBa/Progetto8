@@ -263,3 +263,7 @@ __pycache__/
 /TwinCAT Project8/_Config/PLC
 /TwinCAT Project8/ProgettoPLC/_Libraries/beckhoff automation gmbh
 
+*.tpy
+/TwinCAT Project8/_Boot/TwinCAT RT (x64)
+/TwinCAT Project8/ProgettoPLC/ProgettoPLC.tmc
+/TwinCAT Project8/ProgettoPLC/_CompileInfo
