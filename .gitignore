@@ -260,3 +260,6 @@ paket-files/
 __pycache__/
 *.pyc
 /TwinCAT Project8.project.~u
+/TwinCAT Project8/_Config/PLC
+/TwinCAT Project8/ProgettoPLC/_Libraries/beckhoff automation gmbh
+/TwinCAT Project8/TwinCAT Project8.tsproj.bak
